@@ -11,7 +11,9 @@
 ![laporan pengeluaran](screenshot/ss5.png)
 ![riwayat](screenshot/ss6.png)
 
-## user name : yudies 
+## user name : andri123
 ## pasword : 123456
 
-## link youtube : https://youtu.be/vRhQXKWbrqI
+## link youtube : https://youtu.be/JZAXs6JLKXs
+
+## link web osting : http://kasyudies.unaux.com/
